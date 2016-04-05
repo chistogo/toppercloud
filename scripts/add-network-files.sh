@@ -1,0 +1,1 @@
+sshfs -o idmap=user cloud@192.168.1.200:/home/cloud/cloud /home/cloud/project
